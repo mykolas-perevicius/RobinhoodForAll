@@ -159,3 +159,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 portfolio.db
+
+
+*.ipynb_checkpoints
+.ipynb_cache
+__pycache__
+*.pyc
+*.out
+*.log results/
